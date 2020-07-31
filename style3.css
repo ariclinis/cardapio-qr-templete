@@ -198,6 +198,11 @@ a.article:hover {
     right: 0;
 }
 
+.money{
+    margin-left: -15px;
+    float: left;
+    padding: 0;
+}
 @media (min-width:1000px){
     p {
         font-family: 'Poppins', sans-serif;
